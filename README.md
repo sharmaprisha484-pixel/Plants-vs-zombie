@@ -26,7 +26,7 @@ A browser-based recreation of the classic **Plants vs. Zombies** game developed 
 
 ##  Live Demo
 
-*(Add your deployed project link here)*
+https://plants-vs-zombie-omega.vercel.app/
 
 ---
 
